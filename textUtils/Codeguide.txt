@@ -1,0 +1,17 @@
+nasir is a very good boy, he is mad for one girl and i have forgotten about his career most of the time.
+thank you nasir for distroying your career.
+
+sentence case - Nasir is a very good boy, he is mad for one girl and I have forgotten about his career most of the time.
+Thank you nasir for distroying your career.
+
+search for full stop and convert the character to uppper case coming just after full stop.
+
+captalized case - character occuring after every space should by capitalized
+
+alternating case - every even position charcter should be made capitalized.
+
+title case - Lowercase the conjunctions and, but, for, or, and nor.
+	     Lowercase the articles the, a, and an.
+	     Lowercase the words to and as.
+
+site clone link - https://convertcase.net/
